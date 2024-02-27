@@ -1,0 +1,182 @@
+{
+  "produts": [
+    {
+      "id": 0,
+      "name": "Игровая консоль Nintendo Switch",
+      "description": "32 ГБ, геймпад - 2 шт, Bluetooth, Wi-Fi, красный-синий",
+      "img": "nintendo.webp",
+      "discount": "28 800 ₽",
+      "price": "25 699 ₽",
+      "quantity": 1,
+      "category" : "gameConsoles"
+    },
+    {
+      "id": 1,
+      "name": "Наушники TWS JBL Tune 225TWS GHOST оранжевый",
+      "description": "2.0, вкладыши, 20 Гц - 20000 Гц, 32Ω, Bluetooth, 5.0",
+      "img": "jbl.png",
+      "discount": "5 999 ₽",
+      "price": "4 299 ₽",
+      "quantity": 1,
+      "category" : "headphones"
+    },
+    {
+      "id": 2,
+      "name": "Смартфон Samsung Galaxy S23 128 ГБ черный", 
+      "description": "Ядер - 8x(3.2 ГГц), 8 Гб, 2 SIM, Dynamic AMOLED 2X,4700 мА*ч",
+      "img": "samsung.webp",
+      "discount": "84 499 ₽",
+      "price": "79 999 ₽",
+      "quantity": 1,
+      "category" : "cellphone"
+    },
+    {
+      "id": 3,
+      "name": "Смартфон Apple iPhone SE 2022 64 ГБ красный", 
+      "description": "Ядер - 6, 1 SIM, IPS, 1334x750, камера 12 Мп, NFC, 5G, GPS, 2018 мА*ч",
+      "img": "iphone.jpg",
+      "discount": "41 499 ₽",
+      "price": "38 499 ₽",
+      "quantity": 1,
+      "category" : "cellphone"
+    },
+    {
+      "id": 4,
+      "name": "Фитнес-браслет Xiaomi Mi Smart Band 7", 
+      "description": "Корпус - черный, ремешок - черный, 1.62, для Android 6.0 и выше, iOS 10 и выше",
+      "img": "miband.png",
+      "discount": "3 500 ₽",
+      "price": "2 999 ₽",
+      "quantity": 1,
+      "category" : "fitness watch"
+    },
+
+    {
+      "id": 5,
+      "name": "Смартфон Samsung Galaxy S22",
+      "description": "Цвет: Графитовый, Операционная система: Android 12, Процессор: Exynos 990, Память: 128 ГБ, Камера: 108 Мп",
+      "img": "s22.png",
+      "discount": "54 990 ₽",
+      "price": "49 990 ₽",
+      "quantity": 1,
+      "category" : "cellphone"
+    },
+      
+    {
+      "id": 6,
+      "name": "Ноутбук ASUS ZenBook 14",
+      "description": "Цвет: Серебристый, Экран: 14 дюймов Full HD, Процессор: Intel Core i7, Память: 16 ГБ, SSD: 512 ГБ",
+      "img": "zenbook14.png",
+      "discount": "89 990 ₽",
+      "price": "79 990 ₽",
+      "quantity": 1,
+      "category" : "laptop"
+
+    },
+    
+    {
+      "id": 7,
+      "name": "Наушники Sony WH-1000XM4",
+      "description": "Цвет: Черный, Тип: Беспроводные, Активное шумоподавление, Время работы: до 30 часов",
+      "img": "sony.png",
+      "discount": "24 990 ₽",
+      "price": "21 490 ₽",
+      "quantity": 1,
+      "category" : "headphones"
+
+    },
+    
+    {
+      "id": 8,
+      "name": "Фотоаппарат Canon EOS M50 Mark II",
+      "description": "Цвет: Черный, Тип: Зеркальный, Матрица: 24.1 Мп APS-C CMOS, Видео: 4K UHD",
+      "img": "canon.jpg",
+      "discount": "49 990 ₽",
+      "price": "44 990 ₽",
+      "quantity": 1,
+      "category" : "camera"
+
+    },
+    
+    {
+      "id": 9,
+      "name": "Игровая консоль Xbox Series X",
+      "description": "Цвет: Черный, Поддержка 4K UHD, В комплекте: 1 беспроводной контроллер",
+      "img": "xbox.jpg",
+      "discount": "42 990 ₽",
+      "price": "39 490 ₽",
+      "quantity": 1,
+      "category" : "gameConsoles"
+    },
+
+    {
+      "id": 10,
+      "name": "Умные часы Apple Watch Series 7",
+      "description": "Цвет: Серебристый, Размер: 40 мм, Сенсорный экран, Слежение за здоровьем, Водонепроницаемость: 50 метров",
+      "img": "apple.png",
+      "discount": "23 990 ₽",
+      "price": "21 490 ₽",
+      "quantity": 1,
+      "category" : "watch"
+    },
+    
+    {
+      "id": 11,
+      "name": "Электрический самокат Xiaomi Mi Electric Scooter 3",
+      "description": "Цвет: Черный, Максимальная скорость: 25 км/ч, Дальность поездки: до 30 км, Складной дизайн",
+      "img": "xiaomi.png",
+      "discount": "27 990 ₽",
+      "price": "24 990 ₽",
+      "quantity": 1,
+      "category" : "scooters"
+    },
+    
+    {
+      "id": 12,
+      "name": "Кофемашина DeLonghi Magnifica S",
+      "description": "Цвет: Серебристый, Тип: Автоматическая, Давление: 15 бар, Емкость бака: 1.8 л, Капучинатор",
+      "img": "delonghi.jpg",
+      "discount": "35 990 ₽",
+      "price": "31 490 ₽",
+      "quantity": 1,
+      "category" : "Appliances"
+    },
+    
+    {
+      "id": 13,
+      "name": "Игра Cyberpunk 2077 для PlayStation 4",
+      "description": "Жанр: RPG, Открытый мир, Поддержка Ray Tracing, Возрастной рейтинг: 18+",
+      "img": "cuberpunk.jpg",
+      "discount": "2 490 ₽",
+      "price": "1 990 ₽",
+      "quantity": 1,
+      "category" : "gameConsoles game"
+    },
+    
+    {
+      "id": 14,
+      "name": "Bluetooth-колонка JBL Charge 5",
+      "description": "Цвет: Синий, Мощность: 20 Вт, Время работы: до 20 часов, Влагозащита: IP67",
+      "img": "jblCharge.png",
+      "discount": "9 990 ₽",
+      "price": "8 490 ₽",
+      "quantity": 1,
+      "category" : "bluetooth speaker"
+    }
+  ],
+
+  "categories": [
+    {"mdi":"mdi-laptop"},
+    {"mdi":"mdi-cellphone"},
+    {"mdi":"mdi-television"},
+    {"mdi":"mdi-camera"},
+    {"mdi":"mdi-headphones"},
+    {"mdi":"mdi-printer"},
+    {"mdi":"mdi-guitar-electric"},
+    {"mdi":"mdi-boombox"},
+    {"mdi":"mdi-nintendo-switch"},
+    {"mdi":"mdi-remote"},
+    {"mdi":"mdi-fan"},
+    {"mdi":"mdi-server"}
+  ]
+}
